@@ -1,0 +1,5 @@
+Day|Pluto|||
+Dynamite|Cruz|2009|Views|
+Hello|Adele|2013||
+Lazy|Mars|2000||
+Party|Juptier|2010|Planets|
