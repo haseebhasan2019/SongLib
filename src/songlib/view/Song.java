@@ -24,7 +24,7 @@ public class Song {
 	}
 	
 	public void setName(String name) {
-		this.name = name;
+		this.name = name.trim();
 	}
 	
 	public String getArtist() {
@@ -32,7 +32,7 @@ public class Song {
 	}
 	
 	public void setArtist(String artist) {
-		this.artist = artist;
+		this.artist = artist.trim();
 	}
 	
 	public String getYear() {
@@ -56,7 +56,7 @@ public class Song {
 			this.album = "";
 		}
 		else
-			this.album = album;
+			this.album = album.trim();
 	}
 	
 	@Override

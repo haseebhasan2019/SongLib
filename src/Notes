@@ -1,19 +1,2 @@
 
-1. Song List Display
 - click on song then the option to edit, delete comes up
-
-2. Song Detail
-DONE??
-
-3. Song Add/Delete/Edit
-- add - deal with improper input (first 2 fields are mandatory)
-- alphabetize method - make sure to sort the ArrayList to have it in alphabetical order
-- click on song then the option to edit, delete comes up
-
-delete confirmation?
-
-Instead of using popups for the details, have information show up
-
-Reading from and writing to a file to store the data
-
-we need to change up our edit strategy
